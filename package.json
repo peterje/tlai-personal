@@ -36,7 +36,7 @@
     "@tanstack/react-query": "^5.39.0",
     "@tanstack/react-table": "^8.11.7",
     "@vercel/remix": "2.9.2",
-    "ai": "^3.0.9",
+    "ai": "^3.1.31",
     "dompurify": "^3.0.9",
     "google-auth-library": "^9.10.0",
     "googleapis": "^137.1.0",
