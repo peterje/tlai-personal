@@ -39,7 +39,7 @@
     "ai": "^3.0.9",
     "dompurify": "^3.0.9",
     "google-auth-library": "^9.10.0",
-    "googleapis": "^137.1.0",
+    "googleapis": "^140.0.0",
     "isbot": "^5.1.9",
     "katex": "^0.16.10",
     "markdown-it": "^14.0.0",
